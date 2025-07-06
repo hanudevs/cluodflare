@@ -1,5 +1,5 @@
 (function () {
-    const allowedDomains = ["yourdomain.com", "dishmovie.com"];
+    const allowedDomains = ["yourdomain.com", ".com"];
 
     const currentDomain = window.location.hostname.replace('www.', '');
 
